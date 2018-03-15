@@ -1,0 +1,10 @@
+D:\s.satoh\doc\UniProjects\10.Projects\91.Git\97.DotNetCoreMVC\bin\Debug\netcoreapp2.0\97.DotNetCoreMVC.deps.json
+D:\s.satoh\doc\UniProjects\10.Projects\91.Git\97.DotNetCoreMVC\bin\Debug\netcoreapp2.0\97.DotNetCoreMVC.runtimeconfig.json
+D:\s.satoh\doc\UniProjects\10.Projects\91.Git\97.DotNetCoreMVC\bin\Debug\netcoreapp2.0\97.DotNetCoreMVC.runtimeconfig.dev.json
+D:\s.satoh\doc\UniProjects\10.Projects\91.Git\97.DotNetCoreMVC\bin\Debug\netcoreapp2.0\97.DotNetCoreMVC.dll
+D:\s.satoh\doc\UniProjects\10.Projects\91.Git\97.DotNetCoreMVC\bin\Debug\netcoreapp2.0\97.DotNetCoreMVC.pdb
+D:\s.satoh\doc\UniProjects\10.Projects\91.Git\97.DotNetCoreMVC\obj\Debug\netcoreapp2.0\97.DotNetCoreMVC.csproj.CoreCompileInputs.cache
+D:\s.satoh\doc\UniProjects\10.Projects\91.Git\97.DotNetCoreMVC\obj\Debug\netcoreapp2.0\97.DotNetCoreMVC.AssemblyInfoInputs.cache
+D:\s.satoh\doc\UniProjects\10.Projects\91.Git\97.DotNetCoreMVC\obj\Debug\netcoreapp2.0\97.DotNetCoreMVC.AssemblyInfo.cs
+D:\s.satoh\doc\UniProjects\10.Projects\91.Git\97.DotNetCoreMVC\obj\Debug\netcoreapp2.0\97.DotNetCoreMVC.dll
+D:\s.satoh\doc\UniProjects\10.Projects\91.Git\97.DotNetCoreMVC\obj\Debug\netcoreapp2.0\97.DotNetCoreMVC.pdb
